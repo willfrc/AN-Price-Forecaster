@@ -1,0 +1,2 @@
+# Trained model files are saved here by model/train.py
+# .json files (XGBoost models) are gitignored — retrain from source

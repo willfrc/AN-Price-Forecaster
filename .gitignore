@@ -1,0 +1,20 @@
+# Environment
+venv/
+.env
+
+# Data — raw files and database stay local
+data/
+logs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/settings.json
+.idea/

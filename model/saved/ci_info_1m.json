@@ -1,0 +1,10 @@
+{
+  "lower_offset": -25.32096710205078,
+  "upper_offset": 37.15709228515626,
+  "residual_std": 32.922387560580695,
+  "residual_mae": 23.29369354248047,
+  "ci_width_median": 62.47805938720704,
+  "lower_pct": 10.0,
+  "upper_pct": 90.0,
+  "n_residuals": 70
+}
